@@ -11,23 +11,22 @@ Explore a wide variety of Java concepts, each demonstrated through practical exa
 
 | 🧾 File Name              | 🔍 Description |
 |--------------------------|----------------|
-| `Arrays.java`            | Array usage and manipulation |
-| `Class.java`             | Object instantiation and class structure |
-| `Compute.java`           | Basic computations and logic |
-| `Demo.java`              | A simple Java program demo |
-| `Encapsulation.java`     | OOP encapsulation principle |
-| `Geeks.java`             | Sample problem-based structure |
-| `JaggedArr.java`         | Working with jagged arrays |
-| `MethodOverloading.java` | Demonstrates method overloading |
-| `Multidimentions.java`   | Multidimensional arrays usage |
-| `MultipleObj.java`       | Handling multiple objects |
-| `Random2d.java`          | Randomized 2D arrays |
-| `Static.java`            | Static keyword usage |
-| `Stringbuffer.java`      | `StringBuffer` class demonstration |
-| `Strings.java`           | String operations in Java |
-| `ThisSuper.java`         | Use of `this` and `super` keywords |
-| `t.java` & `te.java`     | Extra practice/test files |
-
+| [`Arrays.java`](#arraysjava)            | Array usage and manipulation |
+| [`Class.java`](#classjava)             | Object instantiation and class structure |
+| [`Compute.java`](#computejava)           | Basic computations and logic |
+| [`Demo.java`](#demojava)              | A simple Java program demo |
+| [`Encapsulation.java`](#encapsulationjava)     | OOP encapsulation principle |
+| [`Geeks.java`](#geeksjava)             | Sample problem-based structure |
+| [`JaggedArr.java`](#jaggedarrjava)         | Working with jagged arrays |
+| [`MethodOverloading.java`](#methodoverloadingjava) | Demonstrates method overloading |
+| [`Multidimentions.java`](#multidimentionsjava)   | Multidimensional arrays usage |
+| [`MultipleObj.java`](#multipleobjjava)       | Handling multiple objects |
+| [`Random2d.java`](#random2djava)          | Randomized 2D arrays |
+| [`Static.java`](#staticjava)            | Static keyword usage |
+| [`Stringbuffer.java`](#stringbufferjava)      | `StringBuffer` class demonstration |
+| [`Strings.java`](#stringsjava)           | String operations in Java |
+| [`ThisSuper.java`](#thissuperjava)         | Use of `this` and `super` keywords |
+| [`t.java`](#tjava) & [`te.java`](#tejava)     | Extra practice/test files |
 ---
 
 ## 🚀 Getting Started
