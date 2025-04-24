@@ -11,22 +11,23 @@ Explore a wide variety of Java concepts, each demonstrated through practical exa
 
 | 🧾 File Name              | 🔍 Description |
 |--------------------------|----------------|
-| [`Arrays.java`](#arraysjava)            | Array usage and manipulation |
-| [`Class.java`](#classjava)             | Object instantiation and class structure |
-| [`Compute.java`](#computejava)           | Basic computations and logic |
-| [`Demo.java`](#demojava)              | A simple Java program demo |
-| [`Encapsulation.java`](#encapsulationjava)     | OOP encapsulation principle |
-| [`Geeks.java`](#geeksjava)             | Sample problem-based structure |
-| [`JaggedArr.java`](#jaggedarrjava)         | Working with jagged arrays |
+| [`Arrays.java`](#arraysjava) | Array usage and manipulation |
+| [`Class.java`](#classjava) | Object instantiation and class structure |
+| [`Compute.java`](#computejava) | Basic computations and logic |
+| [`Demo.java`](#demojava) | A simple Java program demo |
+| [`Encapsulation.java`](#encapsulationjava) | OOP encapsulation principle |
+| [`Geeks.java`](#geeksjava) | Sample problem-based structure |
+| [`JaggedArr.java`](#jaggedarrjava) | Working with jagged arrays |
 | [`MethodOverloading.java`](#methodoverloadingjava) | Demonstrates method overloading |
-| [`Multidimentions.java`](#multidimentionsjava)   | Multidimensional arrays usage |
-| [`MultipleObj.java`](#multipleobjjava)       | Handling multiple objects |
-| [`Random2d.java`](#random2djava)          | Randomized 2D arrays |
-| [`Static.java`](#staticjava)            | Static keyword usage |
-| [`Stringbuffer.java`](#stringbufferjava)      | `StringBuffer` class demonstration |
-| [`Strings.java`](#stringsjava)           | String operations in Java |
-| [`ThisSuper.java`](#thissuperjava)         | Use of `this` and `super` keywords |
-| [`t.java`](#tjava) & [`te.java`](#tejava)     | Extra practice/test files |
+| [`Multidimentions.java`](#multidimentionsjava) | Multidimensional arrays usage |
+| [`MultipleObj.java`](#multipleobjjava) | Handling multiple objects |
+| [`Random2d.java`](#random2djava) | Randomized 2D arrays |
+| [`Static.java`](#staticjava) | Static keyword usage |
+| [`Stringbuffer.java`](#stringbufferjava) | StringBuffer class demonstration |
+| [`Strings.java`](#stringsjava) | String operations in Java |
+| [`ThisSuper.java`](#thissuperjava) | Use of `this` and `super` keywords |
+| [`t.java`](#tjava) | Extra practice file |
+| [`te.java`](#tejava) | Extra practice file |
 ---
 
 ## 🚀 Getting Started
@@ -53,6 +54,7 @@ Replace `FileName` with the actual Java file name (without `.java` extension).
 
 Below are snippets from each Java file included in this repository:
 
+<a name="arraysjava"></a>
 ### 🧾 Arrays.java
 ```java
 public class Arrays {
@@ -65,6 +67,7 @@ public class Arrays {
 }
 ```
 
+<a name="classjava"></a>
 ### 🧾 Class.java
 ```java
 public class MyClass {
@@ -77,6 +80,7 @@ public class MyClass {
 }
 ```
 
+<a name="computejava"></a>
 ### 🧾 Compute.java
 ```java
 public class Compute {
@@ -90,6 +94,7 @@ public class Compute {
 }
 ```
 
+<a name="demojava"></a>
 ### 🧾 Demo.java
 ```java
 public class Demo {
@@ -99,6 +104,7 @@ public class Demo {
 }
 ```
 
+<a name="encapsulationjava"></a>
 ### 🧾 Encapsulation.java
 ```java
 public class Encapsulation {
@@ -120,6 +126,7 @@ public class Encapsulation {
 }
 ```
 
+<a name="geeksjava"></a>
 ### 🧾 Geeks.java
 ```java
 public class Geeks {
@@ -129,6 +136,7 @@ public class Geeks {
 }
 ```
 
+<a name="jaggedarrjava"></a>
 ### 🧾 JaggedArr.java
 ```java
 public class JaggedArr {
@@ -149,6 +157,7 @@ public class JaggedArr {
 }
 ```
 
+<a name="methodoverloadingjava"></a>
 ### 🧾 MethodOverloading.java
 ```java
 public class MethodOverloading {
@@ -168,6 +177,7 @@ public class MethodOverloading {
 }
 ```
 
+<a name="multidimentionsjava"></a>
 ### 🧾 Multidimentions.java
 ```java
 public class Multidimentions {
@@ -187,6 +197,7 @@ public class Multidimentions {
 }
 ```
 
+<a name="multipleobjjava"></a>
 ### 🧾 MultipleObj.java
 ```java
 public class MultipleObj {
@@ -202,6 +213,7 @@ public class MultipleObj {
 }
 ```
 
+<a name="random2djava"></a>
 ### 🧾 Random2d.java
 ```java
 import java.util.Random;
@@ -222,6 +234,7 @@ public class Random2d {
 }
 ```
 
+<a name="staticjava"></a>
 ### 🧾 Static.java
 ```java
 public class Static {
@@ -239,6 +252,7 @@ public class Static {
 }
 ```
 
+<a name="stringbufferjava"></a>
 ### 🧾 Stringbuffer.java
 ```java
 public class Stringbuffer {
@@ -250,6 +264,7 @@ public class Stringbuffer {
 }
 ```
 
+<a name="stringsjava"></a>
 ### 🧾 Strings.java
 ```java
 public class Strings {
@@ -261,6 +276,7 @@ public class Strings {
 }
 ```
 
+<a name="thissuperjava"></a>
 ### 🧾 ThisSuper.java
 ```java
 class Parent {
@@ -282,6 +298,7 @@ public class ThisSuper extends Parent {
 }
 ```
 
+<a name="tjava"></a>
 ### 🧾 t.java
 ```java
 public class t {
@@ -291,6 +308,7 @@ public class t {
 }
 ```
 
+<a name="tejava"></a>
 ### 🧾 te.java
 ```java
 public class te {
