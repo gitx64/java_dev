@@ -1,2 +1,2 @@
 # All types of java Development concepts are here you can check them out.
-## its still in continuous and active development. Feel free to give any kind of help or guide.
+## Its still in continuous and active development. Feel free to give any kind of help or guide.
