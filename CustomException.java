@@ -23,5 +23,7 @@ public class CustomException{
         catch (AstikException e){
             System.out.println("I will not accept this, "+e.getMessage());
         }
+
+    
     }
 }
