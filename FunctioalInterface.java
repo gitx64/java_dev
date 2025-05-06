@@ -24,6 +24,18 @@ public class FunctioalInterface{
         A obj1 = i -> System.out.println("In short");
 
         obj1.show(0);
+
+        A obj2 = i -> System.out.println("Hello");
+
+        // Calling the show method using lambda expression created for obj2
+        obj2.show(0);
+
+        //make an object of the interface A
+
+  
+
+
+
         
     }
 }
