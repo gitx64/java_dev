@@ -11,6 +11,12 @@ public class Collectionss {
         c.add(6);
         c.add(5); 
 
-        System.out.println(c);
+
+        for (Object integer : c) {
+            int nums = (int)integer;
+            System.out.println(nums);
+        }
+
+        // System.out.println(c);
     }
 }
