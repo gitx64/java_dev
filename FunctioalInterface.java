@@ -7,6 +7,7 @@ interface A {
 
 
 public class FunctioalInterface{
+  
 
     
     
